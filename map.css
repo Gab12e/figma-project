@@ -1,0 +1,363 @@
+/* page1 */
+.first1 {
+    margin-left: 24rem;
+}
+
+.second-face{
+    margin-left: 18em;
+}
+
+.third-face{
+    margin-left: 33em;
+}
+.link-to{
+    margin-left: 20px;
+}
+.forth-face{
+    margin-left: 80rem;
+    background-color: #FFFF;
+    color: #00ff;
+    border: none;
+}
+/* page2 */
+.div{
+    margin-left: 30rem;
+}
+.sell-crypto{
+    margin-left: 18em;
+}
+.paragraph{
+    margin-left: 33em;
+}
+
+.them{
+    margin-left: 10rem;
+    margin-top: 5rem;
+    margin-right: 50rem;
+    background-color: #FFFf;
+    color:#00ff;
+    border:none;
+}
+.back{
+    border: none;
+    color: #00ff;
+}
+.move-to{
+    margin-left: 6rem;
+}
+.mov{
+    border: none;
+    color: #00ff;
+}
+.theme{
+    margin-top: 1rem;
+    margin-left: 80rem;
+    background-color: #FFFF;
+    color: #00ff;
+    border: none;
+}
+
+
+.theme{
+    
+}
+/* page3 */
+.nav1{
+    margin-left: 30rem;
+}
+.nav2{
+    margin-left: 16em;
+}
+.nav3{
+    margin-left: 32em;
+}
+.nav4{
+    margin-left: 0em;
+}
+.nav5{
+    margin-top: 2rem;
+    margin-left: 40rem;
+    
+}
+.nav6{
+    margin-top: 2rem;
+    margin-right: 100rem;
+    background-color: #FFFF;
+    color: #00ff;
+    border: none;
+}
+
+.nav7{
+    margin-left: 80rem;
+    background-color: #FFFF;
+    color: #00ff;
+    border: none;
+}
+/* page 4 */
+.set{
+    margin-left: 25rem;
+}
+.prado{
+    margin-left: 33rem;
+}
+.github{
+    margin-left: 30rem;
+}
+.intro{
+    margin-left: 1rem;
+}
+.Gaebu{
+    margin-left: 5rem;
+    background-color: #00ff;
+}
+.break{
+    margin-top: 5rem;
+    margin-right: 100rem;
+    background-color: #FFFF;
+    color: #00ff;
+    border: none;
+}
+.brag{
+    margin-left: 80rem;
+    background-color: #FFFFFF;
+    color: #00ff;
+    border: none;
+}
+
+/* page 5 */
+.guest{
+    margin-left: 50rem;
+}
+.body{
+    margin-left: 30rem;
+}
+.class1{
+    margin-left: 32rem;
+}
+.class2{
+    margin-left: 33rem;
+}
+.class3{
+    margin-left: 35rem;
+}
+.class4{
+    margin-top: 2rem;
+    margin-left: 32rem;
+    padding: 8px 105px 8px 105px;
+    border-color: #00ff;
+    color: #ffff;
+    background-color: #00ff;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.class5{
+    margin-top: 2rem;
+    margin-left: 32rem;
+    padding: 8px 131px 8px 131px;
+    margin-bottom: 1rem;
+    border-color: #00ff;
+    color: #00ff;
+    background-color: #ffff;
+    
+}
+.class6{
+    margin-top: 5rem;
+    margin-left: 2rem;
+    background-color: #ffff;
+    color: #00ff;
+    border: none;
+}
+/* page 6 */
+.account{
+    margin-left: 31rem;
+    margin-right: 15rem;
+    text-underline-position: below;
+    text-underline-position: unset;
+}
+.heading1{
+    margin-top: 2rem;
+    margin-left: 29rem;
+    height: 50px;
+    width: 22rem;
+    border: none;
+    padding-left: 4px;
+    
+    box-shadow: 1px 4px 5px #ffc0cb;
+    
+}
+.bind{
+    border: none;
+}
+.heading2{
+    margin-top: 2rem;
+    margin-left: 29rem;
+    height: 50px;
+    width: 22rem;
+    border: none;
+    padding-left: 4px;
+    box-shadow: 1px 4px 5px #ffc0cb;
+    border: none;
+} 
+.deaf{
+    border: none;
+}
+.heading3{
+    margin-top: 2rem;
+    margin-left: 29rem;
+    margin-right: 35rem;
+    height: 50px;
+    width: 22rem;
+    border: none;
+    padding-left: 4px;
+    box-shadow: 1px 4px 5px #ffc0cb;
+}
+.drift{
+    border: none;
+}
+.sign{
+    margin-left: 29rem;
+    margin-top: 2rem;
+}
+
+
+
+.initial-scale{
+    margin-left: 0rem;
+    color: #ffc0cb;
+}
+.bind{
+    color: #ffc0cb;
+}
+.brand{
+    margin-left: 2rem;
+}
+.krate{
+    margin-left: 30rem;
+    margin-top: 5rem;
+    
+    color: #00ff;
+}
+.edge{
+    background-color: #00ff;
+    color: #FFFF;
+    margin-left: 0em;
+    padding: 8px 108px 8px 108px;
+    border-radius: 6px;
+}
+.elevate{
+    margin-left: 30rem;
+    margin-top: 20rem;
+    border: none;
+}
+.Lobster{
+    border: none;
+    color: #00ff;
+}
+.gesit{
+    border: none;
+    margin-top: 5rem;
+    color: #00ff;
+}
+/* page 7 */
+.account-log{
+    margin-left: 35rem;
+}
+.user-name{
+    margin-top: 2rem;
+    margin-left: 29rem;
+    height: 50px;
+    width: 22rem;
+    border: none;
+    padding-left: 4px;
+    box-shadow: 1px 4px 5px #ffc0cb;
+    border: none;
+}
+.pass-word{
+    margin-top: 2rem;
+    margin-left: 29rem;
+    height: 50px;
+    width: 22rem;
+    border: none;
+    padding-left: 4px;
+    box-shadow: 1px 4px 5px #ffc0cb;
+    border: none;
+}
+.log-in{
+    margin-top: 12rem;
+    margin-left: 29rem;
+    padding: 8px 160px 8px 140px;
+    color: #FFFF;
+    background-color: #00ff;
+    border-radius: 6px;
+}
+.bag{
+    margin-left: 2rem;
+    margin-top: 10rem;
+    margin-top: 30rem;
+    border: none;
+    color: #00ff;
+}
+/* page 8 */
+.enter{
+    margin-left: 34rem;
+}
+.coded{
+    margin-left: 1.2rem;
+}
+.kudos{
+    margin-left: 22rem;
+}
+
+.main {
+    margin-left: 33rem;
+    margin-top: 7rem;
+}
+
+.the {
+    border: none;
+    background-color: #FFFF;
+    color: #00ff;
+    cursor: pointer;
+}
+
+.paste-code {
+    margin-left: 8rem;
+    padding: 7px;
+    background-color: gray;
+    color: #a52a2a;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.bagg {
+    margin-top: 15rem;
+    border: none;
+    cursor: pointer;
+    background-color: #FFFF;
+    color: #00ff;
+
+}
+
+/* page 9 */
+.circle{
+    margin-left: 26rem;
+}
+.GET{
+    margin-left: 32rem;
+}
+.selection{
+    margin-left: 30rem;
+    margin-top: 4rem;
+    padding: 8px 105px 8px 105px;
+    background-color: #00ff;
+    color: #FFFF;
+    border-radius: 6px;
+}
+.begin {
+    margin-left: 5rem;
+    margin-top: 15rem;
+    border: none;
+    color: #00ff;
+    cursor: pointer;
+}
